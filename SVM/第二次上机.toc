@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}支持向量机Review}{2}{section.1}
+\contentsline {paragraph}{基本介绍}{2}{paragraph*.2}
+\contentsline {paragraph}{实现工具}{2}{paragraph*.3}
+\contentsline {section}{\numberline {2}python实现}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}数据格式}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}实现思路}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}支持向量分类SVC}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}关于支持向量数目的讨论}{4}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}支持向量回归SVR}{4}{subsection.2.5}
+\contentsline {section}{\numberline {3}对支持向量的优化}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}聚类(Clustering)简介}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}具体试验}{5}{subsection.3.2}

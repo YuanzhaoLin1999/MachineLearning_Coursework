@@ -1,0 +1,18 @@
+digraph Tree { 
+ node [shape=box] ;
+task[name="task",basis="фЙ╡©"];
+task -> ╟╪ощ ;
+task -> ит╟╪ ;
+task -> ф╫л╧ ;
+ф╫л╧[label="╥Я",name="ф╫л╧"];
+ит╟╪[name="ит╟╪",basis="╦Ы╣ы"];
+ит╟╪ -> итРИ ;
+ит╟╪ -> РИкУ ;
+РИкУ[label="╥Я",name="РИкУ"];
+итРИ[name="итРИ",basis="и╚тС"];
+итРИ -> гЮбл ;
+итРИ -> нз╨з ;
+нз╨з[label="йг",name="нз╨з"];
+гЮбл[label="йг",name="гЮбл"];
+╟╪ощ[label="йг",name="╟╪ощ"];
+}
